@@ -26,8 +26,8 @@ _______
 - Nimet tulevat **systemd:n** käyttämästä järjestelmästä.
 - Omia liittymiä voi tarkastella komennolla `ip a`.
 
-## a)
-Virtuaalikoneessa käytössä Kali Linux.
+## a) Asenna Debian tai Kali Linux virtuaalikoneeseen.
+Virtuaalikoneessa asennettuna Kali Linux.
 
 ## b) Ei voi kalastaa. Osoita, että pystyt katkaisemaan ja palauttamaan virtuaalikoneen Internet-yhteyden.
 
@@ -111,7 +111,10 @@ Tarkastelun kohteena on kaksi ensimmäistä pakettia, jotka muodostavat DNS-kyse
 
 - Pakettien välinen aika on noin 0,02 sekuntia, eli kyselyyn vastattiin nopeasti.
 
-- Koko vaihto on osa nimipalvelun toimintaa. Käyttäjä haluaa tietää domain-nimen IP-osoitteen ennen varsinaista yhteyttä.
+- Koko vaihto on osa nimipalvelun toimintaa. Käyttäjä haluaa tietää domain-nimen IP-osoitteen ennen varsinaista yhteyttä. Tämä on saatu DNS -vastauksessa (216.58.211.234).
+
+![kuva](images/h1/16.png)
+  
 
 ## Lähteet
 
